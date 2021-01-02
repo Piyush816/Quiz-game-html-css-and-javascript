@@ -201,6 +201,12 @@ select {
     font-size: 3rem;
     padding: 0;
   }
+   #loader{
+    font-size: 4rem;
+  }
+  .fa-spinner{
+    font-size: 8rem;
+  }
 }
 
 @media (max-width: 350px) {
